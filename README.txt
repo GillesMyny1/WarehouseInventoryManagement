@@ -12,5 +12,3 @@ the database file downloaded to ensure the sqlite3 command can connect to the da
 
 Then open command prompt and run main.py to run the application.
 ----------------------------------
-YouTube Video Link:
-https://youtu.be/SuiMC5ShfDk
