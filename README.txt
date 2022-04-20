@@ -1,4 +1,3 @@
-README.txt - Gilles Myny
 ----------------------------------
 The database file is included within the compressed .zip folder downloaded.
 
